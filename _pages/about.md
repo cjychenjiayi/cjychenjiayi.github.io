@@ -96,18 +96,12 @@ I am interested in how robots turn underspecified language into goals they can j
   </div>
 </div>
 
-<div class='research-card'>
-  <div class='research-card-media'>
-    <img class='research-main-image' src='images/research/sionna-rt-main-03.png' alt='6G network digital twin architecture'>
-    <video class='research-video' controls preload='metadata' poster='images/video/sionna-rt-poster.jpg'>
-      <source src='files/videos/sionna-rt.mp4' type='video/mp4'>
-    </video>
-  </div>
+<div class='research-card project-card'>
   <div class='research-card-body'>
-    <div class='research-badge'>6G digital twin</div>
-    <h3>Virtual–real interactive network twins with Sionna RT</h3>
-    <p>Developing a geometry- and propagation-aware digital-twin pipeline for sensing, reconstruction, optimization, and decision-making in 6G wireless environments.</p>
-    <p class='research-meta'>Sionna RT scene modeling · channel simulation · network-aware optimization</p>
+    <div class='research-badge'>Project Manager · 6G network digital twin</div>
+    <h3>6G Network Digital Twin</h3>
+    <p>Coordinated a virtual–real interactive 6G network project, aligning scene modeling, propagation simulation, sensing, and optimization across the research team.</p>
+    <p class='research-meta'>Project coordination · Sionna RT · virtual–real network modeling</p>
   </div>
 </div>
 

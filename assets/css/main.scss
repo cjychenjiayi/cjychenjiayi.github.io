@@ -142,6 +142,14 @@ h1:before, .anchor:before {
     border-top: 1px solid #e5e7eb;
 }
 
+.research-card.project-card {
+    grid-template-columns: 1fr;
+}
+
+.project-card .research-card-body {
+    max-width: 760px;
+}
+
 .research-card-media {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
