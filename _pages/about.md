@@ -99,8 +99,9 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
 <div class='experience-item'>
   <div class='experience-heading'><strong>Shanghai AI Laboratory</strong><span>2023.01 – 2024.12</span></div>
   <p><strong>Remote Research Intern</strong> · supervised by Xinyu Cai</p>
-  <p>Built LLM-based traffic-scene generation and VLM-OCR data pipelines for autonomous-driving simulation.</p>
-  <p>Integrated generator–judge workflows with CARLA–Apollo simulation to produce and check scenario data for downstream autonomy experiments.</p>
+  <p>Built an LLM-based traffic-scenario generator that converts natural-language requirements into <strong>OpenSCENARIO</strong> cases, with generator–judge agents for initial-point selection, control-code generation, and XML output.</p>
+  <p>Configured <strong>CARLA–Apollo</strong> communication and built Waymo-to-<strong>V2X-ViT</strong> conversion scripts to support autonomous-driving simulation and downstream evaluation.</p>
+  <p>Generated and quality-checked <strong>InternVL</strong> VLM-OCR training data through difficult-sample synthesis, rule-based filtering, and parameter-freezing fine-tuning.</p>
 </div>
 
 <div class='experience-item'>
