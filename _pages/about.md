@@ -93,10 +93,19 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
 
 <div class='research-card project-card'>
   <div class='research-card-body'>
-    <div class='research-badge'>Project Manager · 6G network digital twin</div>
+    <div class='research-badge'>Project participant · 6G network digital twin</div>
     <h3>6G Network Digital Twin</h3>
-    <p>Coordinated a virtual–real interactive 6G network project, aligning scene modeling, propagation simulation, sensing, and optimization across the research team.</p>
-    <p class='research-meta'>Project coordination · Sionna RT · virtual–real network modeling</p>
+    <p>Contributed to a virtual–real interactive 6G network twin, focusing on scene-level ray-tracing simulation and the calibration of geometry- and propagation-aware models.</p>
+    <p class='research-meta'>Sionna RT · Taichi RT · OSM/GPS alignment · LiDAR/SAM-assisted calibration · RSRP fitting</p>
+  </div>
+</div>
+
+<div class='research-card project-card'>
+  <div class='research-card-body'>
+    <div class='research-badge'>Project lead · multi-sensor UAV system</div>
+    <h3>Multi-Sensor UAV Docking and Adaptive Cruise Control</h3>
+    <p>Led the system design and integration of a multi-sensor UAV platform for aerial docking and adaptive cruise control, including PnP-based visual localization for centimeter-level docking.</p>
+    <p class='research-meta'>System design · visual localization · integration and validation · competition delivery</p>
   </div>
 </div>
 
