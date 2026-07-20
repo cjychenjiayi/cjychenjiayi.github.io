@@ -163,6 +163,11 @@ h1:before, .anchor:before {
     box-shadow: 0 8px 22px rgba(15, 23, 42, .12);
 }
 
+.research-main-image.paper-main-image {
+    object-fit: contain;
+    background: #fff;
+}
+
 .research-card .research-video {
     width: 100%;
     aspect-ratio: 16 / 9;
