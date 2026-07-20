@@ -10,9 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiayi Chen**, a PhD researcher in Computer and Information Engineering at the **Chinese University of Hong Kong, Shenzhen**, advised by Prof. <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a> and Prof. <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>. My research sits at the intersection of **embodied intelligence**, vision-and-language navigation, reliable planning, and wireless sensing.
+I am **Jiayi Chen**, a PhD researcher in Computer and Information Engineering at the **Chinese University of Hong Kong, Shenzhen**, advised by Prof. <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a> and Prof. <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>. My work studies how foundation models and embodied systems can turn uncertain observations and open-ended language into decisions that are grounded, verifiable, and executable.
 
-I am interested in how robots turn underspecified language into goals they can justify, reach, and execute. Since May 2026, I have been working with <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a> on embodied intelligence. The current line of work is being prepared for an ICRA submission.
+## 🧭 Research interests
+
+- **Fast–slow thinking for embodied systems:** connecting deliberate large-model reasoning with reliable, real-time planning and control.
+- **Vision-and-language navigation:** grounding visual observations and language instructions into reachable goals, map evidence, and executable actions.
+- **Foundation models × wireless sensing:** learning transferable representations for heterogeneous CSI, and exploring the interface between wireless signals, perception, and AI.
+
+Since May 2026, I have been working with <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a> on a vision-based VLN algorithm. I lead the development of the perception-and-language grounding pipeline, which is being prepared for deployment on the AGIQUAD D2 Max and an ICRA submission.
 
 # 🔥 News
 
@@ -94,9 +100,12 @@ I am interested in how robots turn underspecified language into goals they can j
   </div>
 </div>
 
+# 🧾 Patent
+
+- **Method and Related Device for Autonomous-Driving Path Planning Integrating Large-Model Reasoning**, Chinese invention patent, ZL 2026 1 0345449.4; related to the AFSP/ICRA work.
+
 # 🎖 Honors and Awards
 
-- *2026*: Chinese invention patent related to AFSP/ICRA work, ZL 2026 1 0345449.4.
 - *2024*: Outstanding Undergraduate Thesis, Queen Mary-BUPT Joint Programme.
 - *2022*: China International “Internet+” Competition, BUPT Industrial Track Second Prize.
 - *2021*: First Prize, National College Mathematics Competition.
@@ -106,11 +115,25 @@ I am interested in how robots turn underspecified language into goals they can j
 - *2024.09 – present*, PhD in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
 - *2020.09 – 2024.06*, B.Eng. in Internet of Things Engineering, Beijing University of Posts and Telecommunications.
 
-# 💻 Internships
+# 💼 Internship experience
 
-- *2026.05 – present*, <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a>, Embodied Intelligence Research Intern.
-- *2023.01 – 2024.12*, **Shanghai AI Laboratory**, Remote Research Intern.
-- *2022.07 – 2023.03*, **Apple Inc.**, Data Analyst Intern, Channel Planning and Forecast.
+<div class='experience-item'>
+  <div class='experience-heading'><strong><a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a></strong><span>2026.05 – present</span></div>
+  <p><strong>Embodied Intelligence Research Intern</strong> · supervised by Qiwei Xu</p>
+  <p>Leading a vision-based VLN algorithm for grounded goal generation and deployment-oriented validation on the AGIQUAD D2 Max.</p>
+</div>
+
+<div class='experience-item'>
+  <div class='experience-heading'><strong>Shanghai AI Laboratory</strong><span>2023.01 – 2024.12</span></div>
+  <p><strong>Remote Research Intern</strong> · supervised by Xinyu Cai</p>
+  <p>Built LLM-based traffic-scene generation and VLM-OCR data pipelines for autonomous-driving simulation.</p>
+</div>
+
+<div class='experience-item'>
+  <div class='experience-heading'><strong>Apple Inc.</strong><span>2022.07 – 2023.03</span></div>
+  <p><strong>Data Analyst Intern</strong> · Channel Planning and Forecast</p>
+  <p>Developed Python/C++ allocation and reporting automation for China retail channel planning.</p>
+</div>
 
 # 📄 CV
 
