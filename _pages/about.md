@@ -52,6 +52,7 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
     <div class='research-badge'>IROS 2025 · pp. 951–958</div>
     <h3>Opportunistic Collaborative Planning with Large Vision Model Guided Control and Joint Query-Service Optimization</h3>
     <p>Combines a local model with a cloud vision-language model, choosing when to query and how to close the loop from rare-object perception to vehicle control.</p>
+    <p class='research-meta'><strong>Jiayi Chen</strong>, <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>, Guoliang Li, Wei Xu, <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a>, Derrick Wing Kwan Ng, and Chengzhong Xu</p>
     <p class='research-meta'>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p>
     <p class='research-links'><a href='files/papers/iros-ocp.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='files/videos/iros-ocp-full.mp4' target='_blank' rel='noopener'>Full video</a><a href='https://ieeexplore.ieee.org/document/11245999/' target='_blank' rel='noopener'>IEEE Xplore</a></p>
   </div>
@@ -80,8 +81,9 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
     <div class='research-badge'>IEEE Communications Magazine · accepted</div>
     <h3>The Universal Language of CSI: Unifying Wireless Sensing Across Devices and Environments</h3>
     <p>Explores foundation-model interfaces for channel state information (CSI), with a unified representation that transfers wireless sensing across devices, environments, and downstream tasks.</p>
+    <p class='research-meta'><strong>Jiayi Chen</strong>, Weiting Ou, and <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a></p>
     <p class='research-meta'>A wireless-sensing line spanning WiLLM, CSI foundation models, and device/environment adaptation</p>
-    <p class='research-links'><a href='files/papers/commag-csi.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='https://arxiv.org/abs/2607.09727' target='_blank' rel='noopener'>arXiv</a></p>
+    <p class='research-links'><a href='files/papers/commag-csi.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='https://arxiv.org/abs/2607.09727' target='_blank' rel='noopener'>arXiv</a><a href='https://github.com/cjychenjiayi/WiLLM' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
 
