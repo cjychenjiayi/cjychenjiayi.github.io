@@ -72,7 +72,7 @@ I am interested in how robots turn underspecified language into goals they can j
 
 <div class='research-card'>
   <div class='research-card-media single'>
-    <img class='research-main-image' src='images/research/tmc-sigma-main-09.png' alt='Simulation-in-the-loop uncertainty-aware planning'>
+    <img class='research-main-image paper-main-image' src='images/research/tmc-paper-main.png' alt='Formal paper overview of simulation-in-the-loop uncertainty-aware planning'>
   </div>
   <div class='research-card-body'>
     <div class='research-badge'>IEEE TMC · submitted</div>
@@ -86,7 +86,7 @@ I am interested in how robots turn underspecified language into goals they can j
 
 <div class='research-card'>
   <div class='research-card-media single'>
-    <img class='research-main-image' src='images/research/csi-willm-main-06.png' alt='WiLLM architecture for wireless sensing'>
+    <img class='research-main-image paper-main-image' src='images/research/commag-paper-main.png' alt='Formal paper overview of the unified CSI foundation framework'>
   </div>
   <div class='research-card-body'>
     <div class='research-badge'>IEEE Communications Magazine · accepted</div>
