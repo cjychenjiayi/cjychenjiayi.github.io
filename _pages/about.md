@@ -32,34 +32,28 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
 ## Embodied intelligence · fast–slow thinking
 
 <div class='research-card'>
-  <div class='research-card-media'>
+  <div class='research-card-media single'>
     <img class='research-main-image' src='images/research/icra-afsp-main-02.png' alt='Agentic Fast-Slow Planning architecture'>
-    <video class='research-video' controls preload='metadata' poster='images/video/icra-afsp-poster.jpg'>
-      <source src='files/videos/icra-afsp.mp4' type='video/mp4'>
-    </video>
   </div>
   <div class='research-card-body'>
     <div class='research-badge'>ICRA 2026 · accepted</div>
     <h3>Bridging Large-Model Reasoning and Real-Time Control via Agentic Fast–Slow Planning</h3>
     <p>Agentic Fast–Slow Planning (AFSP) connects deliberative reasoning with real-time control, using perception-to-decision and decision-to-trajectory modules for robust autonomous driving.</p>
     <p class='research-meta'><strong>Jiayi Chen</strong>, <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>, <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a>, and Chengzhong Xu</p>
-    <p class='research-links'><a href='files/papers/icra-afsp.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='https://arxiv.org/abs/2604.01681' target='_blank' rel='noopener'>arXiv</a><a href='https://github.com/cjychenjiayi/icra2026_AFSP' target='_blank' rel='noopener'>GitHub</a></p>
+    <p class='research-links'><a href='files/papers/icra-afsp.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='files/videos/icra-afsp-full.mp4' target='_blank' rel='noopener'>Full video</a><a href='https://arxiv.org/abs/2604.01681' target='_blank' rel='noopener'>arXiv</a><a href='https://github.com/cjychenjiayi/icra2026_AFSP' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
 
 <div class='research-card'>
-  <div class='research-card-media'>
+  <div class='research-card-media single'>
     <img class='research-main-image' src='images/research/iros-ocp-main-05.png' alt='Opportunistic Collaborative Planning architecture'>
-    <video class='research-video' controls preload='metadata' poster='images/video/iros-ocp-poster.jpg'>
-      <source src='files/videos/iros-ocp.mp4' type='video/mp4'>
-    </video>
   </div>
   <div class='research-card-body'>
     <div class='research-badge'>IROS 2025 · pp. 951–958</div>
     <h3>Opportunistic Collaborative Planning with Large Vision Model Guided Control and Joint Query-Service Optimization</h3>
     <p>Combines a local model with a cloud vision-language model, choosing when to query and how to close the loop from rare-object perception to vehicle control.</p>
     <p class='research-meta'>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p>
-    <p class='research-links'><a href='files/papers/iros-ocp.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='https://ieeexplore.ieee.org/document/11245999/' target='_blank' rel='noopener'>IEEE Xplore</a></p>
+    <p class='research-links'><a href='files/papers/iros-ocp.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='files/videos/iros-ocp-full.mp4' target='_blank' rel='noopener'>Full video</a><a href='https://ieeexplore.ieee.org/document/11245999/' target='_blank' rel='noopener'>IEEE Xplore</a></p>
   </div>
 </div>
 
