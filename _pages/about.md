@@ -22,10 +22,10 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
 
 # 🔥 News
 
-- *2026.05*: Joined <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a> to work on vision-language navigation.
-- *2026*: **Agentic Fast–Slow Planning** accepted to *ICRA 2026*; the related large-model reasoning patent was granted.
-- *2026*: **The Universal Language of CSI** accepted for publication in *IEEE Communications Magazine*.
-- *2025*: **Opportunistic Collaborative Planning** published at *IROS 2025*.
+- *2026.05*: Joined <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a> as an embodied-intelligence research intern, developing vision-language navigation for real-robot deployment.
+- *2026.01*: **Agentic Fast–Slow Planning** accepted to *ICRA 2026*, coupling large-model reasoning with semantic A* planning and real-time MPC control; the related patent was granted.
+- *2026.06*: Released the preprint **The Universal Language of CSI**, accepted for publication in *IEEE Communications Magazine*, introducing a unified CSI foundation-model interface for cross-device and cross-environment wireless sensing.
+- *2025.10*: **Opportunistic Collaborative Planning** published at *IROS 2025*, combining local/cloud vision-language models with decision-aware query timing for open-world driving.
 
 # 🔬 Research
 
