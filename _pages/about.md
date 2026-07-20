@@ -39,7 +39,7 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
     <div class='research-badge'>ICRA 2026 · accepted</div>
     <h3>Bridging Large-Model Reasoning and Real-Time Control via Agentic Fast–Slow Planning</h3>
     <p>Agentic Fast–Slow Planning (AFSP) connects deliberative reasoning with real-time control, using perception-to-decision and decision-to-trajectory modules for robust autonomous driving.</p>
-    <p class='research-meta'><strong>Jiayi Chen</strong>, <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>, <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a>, and Chengzhong Xu</p>
+    <p class='research-meta'><strong>Jiayi Chen</strong>, Shuai Wang, Guangxu Zhu, and Chengzhong Xu</p>
     <p class='research-links'><a href='files/papers/icra-afsp.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='files/videos/icra-afsp-full.mp4' target='_blank' rel='noopener'>Full video</a><a href='https://arxiv.org/abs/2604.01681' target='_blank' rel='noopener'>arXiv</a><a href='https://github.com/cjychenjiayi/icra2026_AFSP' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
@@ -52,7 +52,7 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
     <div class='research-badge'>IROS 2025 · pp. 951–958</div>
     <h3>Opportunistic Collaborative Planning with Large Vision Model Guided Control and Joint Query-Service Optimization</h3>
     <p>Combines a local model with a cloud vision-language model, choosing when to query and how to close the loop from rare-object perception to vehicle control.</p>
-    <p class='research-meta'><strong>Jiayi Chen</strong>, <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>, Guoliang Li, Wei Xu, <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a>, Derrick Wing Kwan Ng, and Chengzhong Xu</p>
+    <p class='research-meta'><strong>Jiayi Chen</strong>, Shuai Wang, Guoliang Li, Wei Xu, Guangxu Zhu, Derrick Wing Kwan Ng, and Chengzhong Xu</p>
     <p class='research-meta'>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p>
     <p class='research-links'><a href='files/papers/iros-ocp.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='files/videos/iros-ocp-full.mp4' target='_blank' rel='noopener'>Full video</a><a href='https://ieeexplore.ieee.org/document/11245999/' target='_blank' rel='noopener'>IEEE Xplore</a></p>
   </div>
@@ -66,7 +66,7 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
     <div class='research-badge'>IEEE TMC · submitted</div>
     <h3>Not All Uncertainty Matters: Simulation-in-the-Loop Fast–Slow Reasoning for Decision-Critical Autonomous Driving System</h3>
     <p>A simulation-in-the-loop fast–slow reasoning pipeline that spends computation on uncertainty that can change a driving decision, rather than treating every prediction equally.</p>
-    <p class='research-meta'><strong>Jiayi Chen</strong>, <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>, <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a>, Derrick Wing Kwan Ng, Chengzhong Xu, and Kaibin Huang</p>
+    <p class='research-meta'><strong>Jiayi Chen</strong>, Shuai Wang, Guangxu Zhu, Derrick Wing Kwan Ng, Chengzhong Xu, and Kaibin Huang</p>
     <p class='research-links'><a href='files/papers/tmc-fast-slow.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='https://github.com/cjychenjiayi/3D_Bbox_uncertainty' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
@@ -81,7 +81,7 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
     <div class='research-badge'>IEEE Communications Magazine · accepted</div>
     <h3>The Universal Language of CSI: Unifying Wireless Sensing Across Devices and Environments</h3>
     <p>Explores foundation-model interfaces for channel state information (CSI), with a unified representation that transfers wireless sensing across devices, environments, and downstream tasks.</p>
-    <p class='research-meta'><strong>Jiayi Chen</strong>, Weiting Ou, and <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a></p>
+    <p class='research-meta'><strong>Jiayi Chen</strong>, Weiting Ou, and Guangxu Zhu</p>
     <p class='research-meta'>A wireless-sensing line spanning WiLLM, CSI foundation models, and device/environment adaptation</p>
     <p class='research-links'><a href='files/papers/commag-csi.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='https://arxiv.org/abs/2607.09727' target='_blank' rel='noopener'>arXiv</a><a href='https://github.com/cjychenjiayi/WiLLM' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
