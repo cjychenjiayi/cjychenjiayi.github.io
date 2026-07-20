@@ -76,7 +76,7 @@ I am interested in how robots turn underspecified language into goals they can j
   </div>
   <div class='research-card-body'>
     <div class='research-badge'>IEEE TMC · submitted</div>
-    <h3>Not All Uncertainty Matters: Simulation-in-the-Loop Fast–Slow Reasoning for Decision-Critical Autonomous Driving Systems</h3>
+    <h3>Not All Uncertainty Matters: Simulation-in-the-Loop Fast–Slow Reasoning for Decision-Critical Autonomous Driving System</h3>
     <p>A simulation-in-the-loop fast–slow reasoning pipeline that spends computation on uncertainty that can change a driving decision, rather than treating every prediction equally.</p>
     <p class='research-meta'><strong>Jiayi Chen</strong>, Shuai Wang, Guangxu Zhu, Derrick Wing Kwan Ng, Chengzhong Xu, and Kaibin Huang</p>
   </div>
