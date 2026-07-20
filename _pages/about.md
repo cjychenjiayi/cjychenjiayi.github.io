@@ -80,9 +80,9 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
   <div class='research-card-body'>
     <div class='research-badge'>IEEE Communications Magazine · accepted</div>
     <h3>The Universal Language of CSI: Unifying Wireless Sensing Across Devices and Environments</h3>
-    <p>Explores foundation-model interfaces for channel state information (CSI), with a unified representation that transfers wireless sensing across devices, environments, and downstream tasks.</p>
+    <p>Introduces <strong>WiLLM</strong>, a CSI foundation model that treats heterogeneous wireless signals as a shared language. We curate a <strong>259,774-sample</strong> corpus spanning <strong>12</strong> real-world datasets and <strong>6</strong> sensing task categories, then learn shared representations with lightweight dataset-specific adapters for cross-device and cross-environment transfer.</p>
     <p class='research-meta'><strong>Jiayi Chen</strong>, Weiting Ou, and Guangxu Zhu</p>
-    <p class='research-meta'>A wireless-sensing line spanning WiLLM, CSI foundation models, and device/environment adaptation</p>
+    <p class='research-meta'>259,774 samples · 12 datasets · 6 task categories · shared CSI tokenizer/Transformer</p>
     <p class='research-links'><a href='files/papers/commag-csi.pdf' target='_blank' rel='noopener'>Paper PDF</a><a href='https://arxiv.org/abs/2607.09727' target='_blank' rel='noopener'>arXiv</a><a href='https://github.com/cjychenjiayi/WiLLM' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
