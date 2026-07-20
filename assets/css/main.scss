@@ -230,6 +230,29 @@ h1:before, .anchor:before {
     background: #eff6ff;
 }
 
+.experience-item {
+    border-top: 1px solid #e5e7eb;
+    padding: 1.15em 0;
+}
+
+.experience-heading {
+    align-items: baseline;
+    display: flex;
+    gap: 1em;
+    justify-content: space-between;
+}
+
+.experience-heading span {
+    color: #5b6472;
+    font-size: .9em;
+    white-space: nowrap;
+}
+
+.experience-item p {
+    line-height: 1.5;
+    margin: .35em 0 0;
+}
+
 @include breakpoint(max-width $medium) {
     .research-card {
         grid-template-columns: 1fr;
@@ -243,5 +266,11 @@ h1:before, .anchor:before {
 
     .research-card-media {
         grid-template-columns: 1fr;
+    }
+
+    .experience-heading {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: .2em;
     }
 }
