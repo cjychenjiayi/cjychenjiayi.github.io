@@ -100,6 +100,34 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
   </div>
 </div>
 
+# 💼 Internship experience
+
+<div class='experience-item'>
+  <div class='experience-heading'><strong><a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a></strong><span>2026.05 – present</span></div>
+  <p><strong>Embodied Intelligence Research Intern</strong> · supervised by Qiwei Xu</p>
+  <p>Leading a vision-based VLN algorithm that grounds open-ended instructions in visual observations, reachable goals, and map evidence.</p>
+  <p>Developing the perception-and-language grounding stack toward deployment on the AGIQUAD D2 Max, with real-robot validation across floors.</p>
+</div>
+
+<div class='experience-item'>
+  <div class='experience-heading'><strong>Shanghai AI Laboratory</strong><span>2023.01 – 2024.12</span></div>
+  <p><strong>Remote Research Intern</strong> · supervised by Xinyu Cai</p>
+  <p>Built LLM-based traffic-scene generation and VLM-OCR data pipelines for autonomous-driving simulation.</p>
+  <p>Integrated generator–judge workflows with CARLA–Apollo simulation to produce and check scenario data for downstream autonomy experiments.</p>
+</div>
+
+<div class='experience-item'>
+  <div class='experience-heading'><strong>Apple Inc.</strong><span>2022.07 – 2023.03</span></div>
+  <p><strong>Data Analyst Intern</strong> · Channel Planning and Forecast</p>
+  <p>Developed Python/C++ allocation and reporting automation for China retail channel planning.</p>
+  <p>Automated weekly iPad allocation, pricing, and launch reporting workflows, reducing a 1M+ unit planning run to roughly two minutes.</p>
+</div>
+
+# 📖 Education
+
+- *2024.09 – present*, PhD in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
+- *2020.09 – 2024.06*, B.Eng. in Internet of Things Engineering, Beijing University of Posts and Telecommunications.
+
 # 🧾 Patent
 
 - **Method and Related Device for Autonomous-Driving Path Planning Integrating Large-Model Reasoning**, Chinese invention patent, ZL 2026 1 0345449.4; related to the AFSP/ICRA work.
@@ -109,31 +137,6 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
 - *2024*: Outstanding Undergraduate Thesis, Queen Mary-BUPT Joint Programme.
 - *2022*: China International “Internet+” Competition, BUPT Industrial Track Second Prize.
 - *2021*: First Prize, National College Mathematics Competition.
-
-# 📖 Education
-
-- *2024.09 – present*, PhD in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
-- *2020.09 – 2024.06*, B.Eng. in Internet of Things Engineering, Beijing University of Posts and Telecommunications.
-
-# 💼 Internship experience
-
-<div class='experience-item'>
-  <div class='experience-heading'><strong><a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a></strong><span>2026.05 – present</span></div>
-  <p><strong>Embodied Intelligence Research Intern</strong> · supervised by Qiwei Xu</p>
-  <p>Leading a vision-based VLN algorithm for grounded goal generation and deployment-oriented validation on the AGIQUAD D2 Max.</p>
-</div>
-
-<div class='experience-item'>
-  <div class='experience-heading'><strong>Shanghai AI Laboratory</strong><span>2023.01 – 2024.12</span></div>
-  <p><strong>Remote Research Intern</strong> · supervised by Xinyu Cai</p>
-  <p>Built LLM-based traffic-scene generation and VLM-OCR data pipelines for autonomous-driving simulation.</p>
-</div>
-
-<div class='experience-item'>
-  <div class='experience-heading'><strong>Apple Inc.</strong><span>2022.07 – 2023.03</span></div>
-  <p><strong>Data Analyst Intern</strong> · Channel Planning and Forecast</p>
-  <p>Developed Python/C++ allocation and reporting automation for China retail channel planning.</p>
-</div>
 
 # 📄 CV
 
