@@ -87,24 +87,6 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
   </div>
 </div>
 
-<div class='research-card project-card'>
-  <div class='research-card-body'>
-    <div class='research-badge'>Project participant · 6G network digital twin</div>
-    <h3>6G Network Digital Twin</h3>
-    <p>Contributed to a virtual–real interactive 6G network twin, focusing on scene-level ray-tracing simulation and the calibration of geometry- and propagation-aware models.</p>
-    <p class='research-meta'>Sionna RT · Taichi RT · OSM/GPS alignment · LiDAR/SAM-assisted calibration · RSRP fitting</p>
-  </div>
-</div>
-
-<div class='research-card project-card'>
-  <div class='research-card-body'>
-    <div class='research-badge'>Project lead · multi-sensor UAV system</div>
-    <h3>Multi-Sensor UAV Docking and Adaptive Cruise Control</h3>
-    <p>Led the system design and integration of a multi-sensor UAV platform for aerial docking and adaptive cruise control, including PnP-based visual localization for centimeter-level docking.</p>
-    <p class='research-meta'>System design · visual localization · integration and validation · competition delivery</p>
-  </div>
-</div>
-
 # 💼 Internship experience
 
 <div class='experience-item'>
@@ -126,6 +108,27 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
   <p><strong>Data Analyst Intern</strong> · Channel Planning and Forecast</p>
   <p>Developed Python/C++ allocation and reporting automation for China retail channel planning.</p>
   <p>Automated weekly iPad allocation, pricing, and launch reporting workflows, reducing a 1M+ unit planning run to roughly two minutes.</p>
+</div>
+
+# 🧩 Projects
+
+<div class='research-card project-card'>
+  <div class='research-card-body'>
+    <div class='research-badge'>Project participant · 6G network digital twin</div>
+    <h3>6G Network Digital Twin</h3>
+    <p>Built a Sionna RT-based virtual–real digital-twin pipeline by fusing RGB imagery with LiDAR point clouds to recover scene geometry and surface semantics. Used SAM-assisted semantic projection to initialize candidate material groups and calibrate electromagnetic parameters against sparse RSRP measurements.</p>
+    <p>Closed the loop by simulating line-of-sight, reflection, scattering, and transmission paths, comparing predicted and measured radio maps, and updating material parameters. Semantic affinity and radio-exposure consistency guided parameter sharing while limiting overfitting under sparse measurements.</p>
+    <p class='research-meta'>Sionna RT · RGB–LiDAR fusion · semantic surface/material calibration · RSRP fitting · uncertainty-aware ray tracing</p>
+  </div>
+</div>
+
+<div class='research-card project-card'>
+  <div class='research-card-body'>
+    <div class='research-badge'>Project lead · multi-sensor UAV system</div>
+    <h3>Multi-Sensor UAV Docking and Adaptive Cruise Control</h3>
+    <p>Led the system design and integration of a multi-sensor UAV platform for aerial docking and adaptive cruise control, including PnP-based visual localization for centimeter-level docking.</p>
+    <p class='research-meta'>System design · visual localization · integration and validation · competition delivery</p>
+  </div>
 </div>
 
 # 📖 Education
