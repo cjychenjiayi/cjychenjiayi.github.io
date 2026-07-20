@@ -27,7 +27,7 @@ author:
   location         : "Shenzhen, China"
   employer         : "CUHK-Shenzhen · AgiBot–AGIQUAD"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=XmOeClYAAAAJ"
   email            : "jiayichen5@link.cuhk.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://cjychenjiayi.github.io"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "jiayi-chen-b7bb41287"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0008-5466-5776"
   pinterest        :
