@@ -10,13 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiayi Chen**, a PhD researcher in Computer and Information Engineering at the **Chinese University of Hong Kong, Shenzhen**, advised by Prof. Guangxu Zhu and Prof. Shuai Wang. My research sits at the intersection of **embodied intelligence**, vision-and-language navigation, reliable planning, and wireless sensing.
+I am **Jiayi Chen**, a PhD researcher in Computer and Information Engineering at the **Chinese University of Hong Kong, Shenzhen**, advised by Prof. <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a> and Prof. <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>. My research sits at the intersection of **embodied intelligence**, vision-and-language navigation, reliable planning, and wireless sensing.
 
-I am interested in how robots turn underspecified language into goals they can justify, reach, and execute. Since May 2026, I have been working with **AGIQUAD** on VLN and query-conditioned map evidence, including real-robot validation across floors on the KuoTuo D2 Max. The current line of work is being prepared for an ICRA submission.
+I am interested in how robots turn underspecified language into goals they can justify, reach, and execute. Since May 2026, I have been working with <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a> on embodied intelligence. The current line of work is being prepared for an ICRA submission.
 
 # 🔥 News
 
-- *2026.05*: Joined **AGIQUAD** as an embodied intelligence research intern, working on vision-and-language navigation.
+- *2026.05*: Joined <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a> as an embodied intelligence research intern.
 - *2026*: Our AFSP work was accepted by **ICRA 2026**; the related large-model reasoning patent has been granted.
 - *2026*: **The Universal Language of CSI** was accepted by IEEE Communications Magazine.
 - *2025*: **Opportunistic Collaborative Planning** was published at IROS 2025.
@@ -36,7 +36,7 @@ I am interested in how robots turn underspecified language into goals they can j
     <div class='research-badge'>ICRA 2026 · accepted</div>
     <h3>Bridging Large-Model Reasoning and Real-Time Control via Agentic Fast–Slow Planning</h3>
     <p>Agentic Fast–Slow Planning (AFSP) connects deliberative reasoning with real-time control, using perception-to-decision and decision-to-trajectory modules for robust autonomous driving.</p>
-    <p class='research-meta'><strong>Jiayi Chen</strong>, Shuai Wang, Guangxu Zhu, and Chengzhong Xu</p>
+    <p class='research-meta'><strong>Jiayi Chen</strong>, <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>, <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a>, and Chengzhong Xu</p>
     <p class='research-links'><a href='https://arxiv.org/abs/2604.01681' target='_blank' rel='noopener'>arXiv</a><a href='https://github.com/cjychenjiayi/icra2026_AFSP' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
@@ -65,7 +65,7 @@ I am interested in how robots turn underspecified language into goals they can j
     <div class='research-badge'>IEEE TMC · submitted</div>
     <h3>Not All Uncertainty Matters: Simulation-in-the-Loop Fast–Slow Reasoning for Decision-Critical Autonomous Driving System</h3>
     <p>A simulation-in-the-loop fast–slow reasoning pipeline that spends computation on uncertainty that can change a driving decision, rather than treating every prediction equally.</p>
-    <p class='research-meta'><strong>Jiayi Chen</strong>, Shuai Wang, Guangxu Zhu, Derrick Wing Kwan Ng, Chengzhong Xu, and Kaibin Huang</p>
+    <p class='research-meta'><strong>Jiayi Chen</strong>, <a href='https://people.ucas.edu.cn/~shuaiwang' target='_blank' rel='noopener'>Shuai Wang</a>, <a href='https://sites.google.com/view/guangxuzhu' target='_blank' rel='noopener'>Guangxu Zhu</a>, Derrick Wing Kwan Ng, Chengzhong Xu, and Kaibin Huang</p>
     <p class='research-links'><a href='https://github.com/cjychenjiayi/3D_Bbox_uncertainty' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
@@ -108,7 +108,7 @@ I am interested in how robots turn underspecified language into goals they can j
 
 # 💻 Internships
 
-- *2026.05 – present*, **AGIQUAD**, Embodied Intelligence Research Intern; VLN and language-to-goal grounding.
+- *2026.05 – present*, <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a>, Embodied Intelligence Research Intern.
 - *2023.01 – 2024.12*, **Shanghai AI Laboratory**, Remote Research Intern.
 - *2022.07 – 2023.03*, **Apple Inc.**, Data Analyst Intern, Channel Planning and Forecast.
 
