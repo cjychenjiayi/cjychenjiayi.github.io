@@ -27,21 +27,6 @@ I am interested in how robots turn underspecified language into goals they can j
 
 <div class='research-card'>
   <div class='research-card-media'>
-    <img class='research-main-image' src='images/research/agibot-vln-main-22.png' alt='Query-conditioned vision-and-language navigation architecture'>
-    <video class='research-video' controls preload='metadata' poster='images/video/agibot-vln-poster.jpg'>
-      <source src='files/videos/agibot-vln-preview.mp4' type='video/mp4'>
-    </video>
-  </div>
-  <div class='research-card-body'>
-    <div class='research-badge'>AGIQUAD · VLN · 2026–present</div>
-    <h3>Query-conditioned vision-and-language navigation</h3>
-    <p>Building a language-grounded navigation stack that turns underspecified instructions into verifiable goals, map evidence, and executable actions.</p>
-    <p class='research-meta'>Supervised by Qiwei Xu · real-robot cross-floor validation on the KuoTuo D2 Max · ICRA submission in preparation</p>
-  </div>
-</div>
-
-<div class='research-card'>
-  <div class='research-card-media'>
     <img class='research-main-image' src='images/research/icra-afsp-main-02.png' alt='Agentic Fast-Slow Planning architecture'>
     <video class='research-video' controls preload='metadata' poster='images/video/icra-afsp-poster.jpg'>
       <source src='files/videos/icra-afsp.mp4' type='video/mp4'>
@@ -52,6 +37,7 @@ I am interested in how robots turn underspecified language into goals they can j
     <h3>Bridging Large-Model Reasoning and Real-Time Control via Agentic Fast–Slow Planning</h3>
     <p>Agentic Fast–Slow Planning (AFSP) connects deliberative reasoning with real-time control, using perception-to-decision and decision-to-trajectory modules for robust autonomous driving.</p>
     <p class='research-meta'><strong>Jiayi Chen</strong>, Shuai Wang, Guangxu Zhu, and Chengzhong Xu</p>
+    <p class='research-links'><a href='https://arxiv.org/abs/2604.01681' target='_blank' rel='noopener'>arXiv</a><a href='https://github.com/cjychenjiayi/icra2026_AFSP' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
 
@@ -67,6 +53,7 @@ I am interested in how robots turn underspecified language into goals they can j
     <h3>Opportunistic Collaborative Planning with Large Vision Model Guided Control and Joint Query-Service Optimization</h3>
     <p>Combines a local model with a cloud vision-language model, choosing when to query and how to close the loop from rare-object perception to vehicle control.</p>
     <p class='research-meta'>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p>
+    <p class='research-links'><a href='https://ieeexplore.ieee.org/document/11245999/' target='_blank' rel='noopener'>IEEE Xplore</a></p>
   </div>
 </div>
 
@@ -79,6 +66,7 @@ I am interested in how robots turn underspecified language into goals they can j
     <h3>Not All Uncertainty Matters: Simulation-in-the-Loop Fast–Slow Reasoning for Decision-Critical Autonomous Driving System</h3>
     <p>A simulation-in-the-loop fast–slow reasoning pipeline that spends computation on uncertainty that can change a driving decision, rather than treating every prediction equally.</p>
     <p class='research-meta'><strong>Jiayi Chen</strong>, Shuai Wang, Guangxu Zhu, Derrick Wing Kwan Ng, Chengzhong Xu, and Kaibin Huang</p>
+    <p class='research-links'><a href='https://github.com/cjychenjiayi/3D_Bbox_uncertainty' target='_blank' rel='noopener'>GitHub</a></p>
   </div>
 </div>
 
@@ -93,6 +81,7 @@ I am interested in how robots turn underspecified language into goals they can j
     <h3>The Universal Language of CSI: Unifying Wireless Sensing Across Devices and Environments</h3>
     <p>Explores foundation-model interfaces for channel state information (CSI), with a unified representation that transfers wireless sensing across devices, environments, and downstream tasks.</p>
     <p class='research-meta'>A wireless-sensing line spanning WiLLM, CSI foundation models, and device/environment adaptation</p>
+    <p class='research-links'><a href='https://arxiv.org/abs/2607.09727' target='_blank' rel='noopener'>arXiv</a></p>
   </div>
 </div>
 

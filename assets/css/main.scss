@@ -209,6 +209,27 @@ h1:before, .anchor:before {
     font-size: .9em;
 }
 
+.research-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .55em;
+    margin-top: .9em !important;
+}
+
+.research-links a {
+    border: 1px solid #bfdbfe;
+    border-radius: 999px;
+    color: #1d4ed8;
+    font-size: .84em;
+    font-weight: 600;
+    padding: .25em .75em;
+    text-decoration: none;
+}
+
+.research-links a:hover {
+    background: #eff6ff;
+}
+
 @include breakpoint(max-width $medium) {
     .research-card {
         grid-template-columns: 1fr;
