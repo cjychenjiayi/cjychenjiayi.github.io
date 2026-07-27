@@ -237,6 +237,32 @@ h1:before, .anchor:before {
     margin: .35em 0 0;
 }
 
+.experience-sample {
+    align-items: center;
+    background: #f8fafc;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    display: grid;
+    gap: 1em;
+    grid-template-columns: minmax(180px, 240px) 1fr;
+    margin-top: 1em;
+    padding: .75em;
+}
+
+.experience-sample img {
+    border-radius: 6px;
+    box-shadow: 0 4px 14px rgba(15, 23, 42, .12);
+    display: block;
+    width: 100%;
+}
+
+.experience-sample-caption {
+    color: #5b6472;
+    font-size: .92em;
+    line-height: 1.45 !important;
+    margin-top: 0 !important;
+}
+
 @include breakpoint(max-width $medium) {
     .research-card {
         grid-template-columns: 1fr;
@@ -256,5 +282,9 @@ h1:before, .anchor:before {
         align-items: flex-start;
         flex-direction: column;
         gap: .2em;
+    }
+
+    .experience-sample {
+        grid-template-columns: 1fr;
     }
 }
