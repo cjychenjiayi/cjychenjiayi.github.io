@@ -102,6 +102,15 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
   <p>Built an LLM-based traffic-scenario generator that converts natural-language requirements into <strong>OpenSCENARIO</strong> cases, with generator–judge agents for initial-point selection, control-code generation, and XML output.</p>
   <p>Configured <strong>CARLA–Apollo</strong> communication and built Waymo-to-<strong>V2X-ViT</strong> conversion scripts to support autonomous-driving simulation and downstream evaluation.</p>
   <p>Generated and quality-checked <strong>InternVL</strong> VLM-OCR training data through difficult-sample synthesis, rule-based filtering, and parameter-freezing fine-tuning.</p>
+  <div class='experience-sample'>
+    <a href='files/internships/shanghai-ai-lab-work-samples.pdf' target='_blank' rel='noopener'>
+      <img src='images/internships/shanghai-ai-lab-preview.gif' alt='Preview of Shanghai AI Laboratory traffic-scenario generation work'>
+    </a>
+    <div>
+      <p class='experience-sample-caption'>Selected project material: generator–judge traffic-scene synthesis and simulation workflow.</p>
+      <p class='research-links'><a href='files/internships/shanghai-ai-lab-work-samples.pdf' target='_blank' rel='noopener'>Work samples (PDF)</a><a href='files/cv/jiayi-chen-cv.pdf#page=2' target='_blank' rel='noopener'>Resume entry</a></p>
+    </div>
+  </div>
 </div>
 
 <div class='experience-item'>
