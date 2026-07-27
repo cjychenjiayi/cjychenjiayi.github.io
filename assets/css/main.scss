@@ -142,6 +142,38 @@ h1:before, .anchor:before {
     max-width: 760px;
 }
 
+.project-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1em;
+    margin: 1.35em 0 .9em;
+}
+
+.project-gallery figure {
+    margin: 0;
+    min-width: 0;
+}
+
+.project-gallery .project-gallery-hero {
+    grid-column: 1 / -1;
+}
+
+.project-gallery img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    background: #f3f4f6;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, .12);
+}
+
+.project-gallery figcaption {
+    margin-top: .45em;
+    color: #64748b;
+    font-size: .82em;
+    line-height: 1.4;
+}
+
 .research-card-media {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -272,6 +304,14 @@ h1:before, .anchor:before {
 @include breakpoint(max-width $small) {
     .video-grid {
         grid-template-columns: 1fr;
+    }
+
+    .project-gallery {
+        grid-template-columns: 1fr;
+    }
+
+    .project-gallery .project-gallery-hero {
+        grid-column: auto;
     }
 
     .research-card-media {

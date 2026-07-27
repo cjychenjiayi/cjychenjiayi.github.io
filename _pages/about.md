@@ -128,6 +128,27 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
     <h3>6G Network Digital Twin</h3>
     <p>Built a Sionna RT-based virtual–real digital-twin pipeline by fusing RGB imagery with LiDAR point clouds to recover scene geometry and surface semantics. Used SAM-assisted semantic projection to initialize candidate material groups and calibrate electromagnetic parameters against sparse RSRP measurements.</p>
     <p>Closed the loop by simulating line-of-sight, reflection, scattering, and transmission paths, comparing predicted and measured radio maps, and updating material parameters. Semantic affinity and radio-exposure consistency guided parameter sharing while limiting overfitting under sparse measurements.</p>
+    <div class='project-gallery'>
+      <figure class='project-gallery-hero'>
+        <a href='images/projects/6g-digital-twin/sr-rtcal-overview.jpg' target='_blank' rel='noopener'>
+          <img src='images/projects/6g-digital-twin/sr-rtcal-overview.jpg' alt='SR-RTCal overview for the 6G wireless digital twin'>
+        </a>
+        <figcaption>Semantic-radio calibration loop for the virtual–real twin.</figcaption>
+      </figure>
+      <figure>
+        <a href='images/projects/6g-digital-twin/ray-tracing-pipeline.jpg' target='_blank' rel='noopener'>
+          <img src='images/projects/6g-digital-twin/ray-tracing-pipeline.jpg' alt='Ray-tracing pipeline from reconstructed geometry to RSRP prediction'>
+        </a>
+        <figcaption>Geometry/RGB reconstruction, ray tracing, and RSRP prediction.</figcaption>
+      </figure>
+      <figure>
+        <a href='images/projects/6g-digital-twin/sparse-rsrp-calibration.jpg' target='_blank' rel='noopener'>
+          <img src='images/projects/6g-digital-twin/sparse-rsrp-calibration.jpg' alt='Sparse RSRP inverse calibration of RF material parameters'>
+        </a>
+        <figcaption>Recovering material parameters from sparse radio measurements.</figcaption>
+      </figure>
+    </div>
+    <p class='research-links'><a href='files/videos/sionna-rt.mp4' target='_blank' rel='noopener'>Ray-tracing demo</a></p>
     <p class='research-meta'>Sionna RT · RGB–LiDAR fusion · semantic surface/material calibration · RSRP fitting · uncertainty-aware ray tracing</p>
   </div>
 </div>
