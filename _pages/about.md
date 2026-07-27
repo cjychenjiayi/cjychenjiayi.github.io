@@ -112,15 +112,6 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
       <figcaption>Autonomous-driving simulation run with the generated scene.</figcaption>
     </figure>
   </div>
-  <div class='experience-sample'>
-    <a href='files/internships/shanghai-ai-lab-work-samples.pdf' target='_blank' rel='noopener'>
-      <img src='images/internships/shanghai-ai-lab-preview.gif' alt='Preview of Shanghai AI Laboratory traffic-scenario generation work'>
-    </a>
-    <div>
-      <p class='experience-sample-caption'>Selected project material: generator–judge traffic-scene synthesis and simulation workflow.</p>
-      <p class='research-links'><a href='files/internships/shanghai-ai-lab-work-samples.pdf' target='_blank' rel='noopener'>Work samples (PDF)</a><a href='files/cv/jiayi-chen-cv.pdf#page=2' target='_blank' rel='noopener'>Resume entry</a></p>
-    </div>
-  </div>
 </div>
 
 <div class='experience-item'>
