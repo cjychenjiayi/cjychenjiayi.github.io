@@ -102,6 +102,16 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
   <p>Built an LLM-based traffic-scenario generator that converts natural-language requirements into <strong>OpenSCENARIO</strong> cases, with generator–judge agents for initial-point selection, control-code generation, and XML output.</p>
   <p>Configured <strong>CARLA–Apollo</strong> communication and built Waymo-to-<strong>V2X-ViT</strong> conversion scripts to support autonomous-driving simulation and downstream evaluation.</p>
   <p>Generated and quality-checked <strong>InternVL</strong> VLM-OCR training data through difficult-sample synthesis, rule-based filtering, and parameter-freezing fine-tuning.</p>
+  <div class='internship-media-grid'>
+    <figure>
+      <img src='images/internships/shanghai-carla-demo-1.gif' alt='CARLA traffic simulation demo with nearby vehicles'>
+      <figcaption>CARLA traffic-scene simulation and vehicle interaction.</figcaption>
+    </figure>
+    <figure>
+      <img src='images/internships/shanghai-carla-demo-2.gif' alt='CARLA autonomous driving simulation demo'>
+      <figcaption>Autonomous-driving simulation run with the generated scene.</figcaption>
+    </figure>
+  </div>
   <div class='experience-sample'>
     <a href='files/internships/shanghai-ai-lab-work-samples.pdf' target='_blank' rel='noopener'>
       <img src='images/internships/shanghai-ai-lab-preview.gif' alt='Preview of Shanghai AI Laboratory traffic-scenario generation work'>
@@ -146,6 +156,20 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
           <img src='images/projects/6g-digital-twin/sparse-rsrp-calibration.jpg' alt='Sparse RSRP inverse calibration of RF material parameters'>
         </a>
         <figcaption>Recovering material parameters from sparse radio measurements.</figcaption>
+      </figure>
+    </div>
+    <div class='project-gallery project-gallery-demos'>
+      <figure>
+        <a href='images/projects/6g-digital-twin/ground-spectrum-demo.png' target='_blank' rel='noopener'>
+          <img src='images/projects/6g-digital-twin/ground-spectrum-demo.png' alt='Intermediate ground-spectrum optimization demo'>
+        </a>
+        <figcaption>Intermediate demo: spatial spectrum map and parameter optimization.</figcaption>
+      </figure>
+      <figure>
+        <a href='images/projects/6g-digital-twin/radio-map-evaluation-demo.png' target='_blank' rel='noopener'>
+          <img src='images/projects/6g-digital-twin/radio-map-evaluation-demo.png' alt='Before-and-after radio-map evaluation demo'>
+        </a>
+        <figcaption>Intermediate demo: before/after RSRP and spectral-efficiency evaluation.</figcaption>
       </figure>
     </div>
     <p class='research-links'><a href='files/videos/sionna-rt.mp4' target='_blank' rel='noopener'>Ray-tracing demo</a></p>
