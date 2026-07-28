@@ -22,7 +22,6 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
 
 # 🔥 News
 
-- *2026.07*: Granted a Chinese invention patent, **CSI-Based Target Detection Method, Apparatus, Device, and Medium** (ZL 2026 1 0612628.X), for CSI-based target detection.
 - *2026.06*: Released the preprint **The Universal Language of CSI**, accepted for publication in *IEEE Communications Magazine*, introducing a unified CSI foundation-model interface for cross-device and cross-environment wireless sensing.
 - *2026.05*: Joined <a href='https://www.agibot.com/' target='_blank' rel='noopener'>AgiBot</a>–<a href='https://www.agibot.com.cn/index.html' target='_blank' rel='noopener'>AGIQUAD</a> as an embodied-intelligence research intern, developing vision-language navigation for real-robot deployment.
 - *2026.01*: **Agentic Fast–Slow Planning** accepted to *ICRA 2026*, coupling large-model reasoning with semantic A* planning and real-time MPC control; the related patent was granted.
