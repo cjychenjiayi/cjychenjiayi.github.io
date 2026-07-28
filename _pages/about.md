@@ -164,7 +164,6 @@ Since May 2026, I have been working with <a href='https://www.agibot.com/' targe
         <figcaption>Intermediate demo: before/after RSRP and spectral-efficiency evaluation.</figcaption>
       </figure>
     </div>
-    <p class='research-links'><a href='files/videos/sionna-rt.mp4' target='_blank' rel='noopener'>Ray-tracing demo</a></p>
     <p class='research-meta'>Sionna RT · RGB–LiDAR fusion · semantic surface/material calibration · RSRP fitting · uncertainty-aware ray tracing</p>
   </div>
 </div>
